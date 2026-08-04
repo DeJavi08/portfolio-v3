@@ -1,6 +1,6 @@
 ---
 title: "KISAH INSPIRATIF PAK DWI: DARI PONOROGO HINGGA AMERIKA"
-category: "story"
+category: "daily"
 date: "30 JUL 2026"
 readTime: "3 MIN READ"
 ---
